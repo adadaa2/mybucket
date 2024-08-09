@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v5.3.1-stable/idv-login-v5.3.1-stable-Py3.12.exe",
-            "hash": "A18C26C56581D8EF144D8F7C486930EA436DD24843A8495F89B3A694F7834223"
+            "hash": "97F2156A4ADEAF3C794F07B011B5B88C1F9168394E765D985830ED5321FC2440"
         }
     },
     "bin": "idv-login-v5.3.1-stable-Py3.12.exe",
