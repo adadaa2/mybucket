@@ -8,6 +8,6 @@
     "bin": "simple_live_app.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/xiaoyaocz/dart_simple_live/releases/download/v$version/simple_live_app-$version+$majorVersion0$minorVersion0$patchVersion0-windows.zip"
+        "url": "https://github.com/xiaoyaocz/dart_simple_live/releases/download/v$version/simple_live_app-$version+$majorVersion0$minorVersion0$patchVersion-windows.zip"
     }
 }
