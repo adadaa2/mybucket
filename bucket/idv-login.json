@@ -15,7 +15,6 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.12.exe",
-                "extract_dir": "aria2-$matchVersion-win-64bit-build$matchBuild",
                 "hash": {
                     "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.12.exe.sha256"
                 }
