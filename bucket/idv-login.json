@@ -3,7 +3,7 @@
     "description": "绕过注册时间限制-一键法",
     "homepage": "https://github.com/Alexander-Porter/idv-login",
     "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v5.3.0-stable/idv-login-v5.3.0-stable-Py3.12.exe",
-    "hash": "97F2156A4ADEAF3C794F07B011B5B88C1F9168394E765D985830ED5321FC2440",
+    "hash": "6B8610F9818DE123EF7F9E1C4A2218C8E1C0612C40D0FF56EC41F32EFC6234F7",
     "bin": "idv-login-v5.3.1-stable-Py3.12.exe",
     "checkver": "github",
     "autoupdate": {
