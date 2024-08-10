@@ -9,7 +9,7 @@
     "autoupdate": {
         "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.12.exe",
         "hash": {
-            "url": "$baseurl.sha256"
+            "url": "$url.sha256"
         }
     }
 }
