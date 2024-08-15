@@ -33,6 +33,9 @@ jobs:
           # 直接取当前项目的仓库名
           static_list: ${{ github.event.repository.name }}
           # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
-          # static_list: 'repo_name,repo_name2'
+          Lstatic_list: 'mybucket'
           # black_list: 'repo_name,repo_name2'
-          white_list: 'mubucket'
+          #  white_list: 'mubucket'
+          clone_style: "https"  # 使用https方式进行clone，也可以使用ssh
+          debug: true  # 启用后会显示所有执行命令
+          force_update: true  # 启用后，强制同步，即强制覆盖目的端仓库
