@@ -5,7 +5,7 @@
     "license": "Unknown",
     "depends": "sudo",
     "url": "http://ct.ghpym.com/d/7369060-41186015-59236c/Thunder_11.2.2.1716v2_Green.7z",
-    "hash": "b7d8dd01e9cf5553f87a625a0972a8f6ac75aad0d680cc964086d48f9cb202dd",
+    "hash": "3c129a9a44cc386a229fc8eff6bb70b6b6a0fe5afe49e129a2c34ace0b19810d",
     "extract_dir": "Thunder",
     "installer": {
         "script": [
