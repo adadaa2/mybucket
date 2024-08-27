@@ -5,7 +5,6 @@
     "license": "Unknown",
     "depends": "sudo",
     "url": "https://www.123pan.com/s/OTbLVv-sDBi.html/迅雷_11.1.12.1692_去广告SVIP绿色精简最终版.7z",
-    "hash": "490086b6a19e8297191af9c18f3acff7a1eb69b9e19b83fb0e9008a876e3b189",
     "extract_dir": "Thunder",
     "installer": {
         "script": [
