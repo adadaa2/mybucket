@@ -15,7 +15,6 @@
         "url": "https://github.com/Alexander-Porter/idv-login",
         "regex": "\\/releases\\/tag\\/(?:v)?([\\d.]+)-stable"
     },
-    "bin": "idv-login-v$version-stable-Py3.12.exe",
     "autoupdate": {
         "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.12.exe",
         "hash": {
