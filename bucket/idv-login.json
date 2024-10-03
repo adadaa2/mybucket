@@ -1,13 +1,13 @@
 {
-    "version": "5.3.4",
+    "version": "5.4.0",
     "description": "绕过注册时间限制-一键法",
     "homepage": "https://github.com/Alexander-Porter/idv-login",
     "license": "GPL-3.0 license",
-    "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v5.3.4-stable/idv-login-v5.3.4-stable-Py3.12.exe",
-    "hash": "d2cdd622f14997e6f122a3e3d1f69a140bd4b192b1681feaac25d3b5c5396ad7",
+    "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v5.4.0-stable/idv-login-v5.4.0-stable-Py3.12.exe",
+    "hash": "6eca735a2c44b1a5415b7743b21d8cb0949196e0adacdb47ae0bea1c1f9556bc",
     "shortcuts": [
         [
-            "idv-login-v5.3.4-stable-Py3.12.exe",
+            "idv-login-v5.4.0-stable-Py3.12.exe",
             "idv-login"
         ]
     ],
