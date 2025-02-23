@@ -16,13 +16,13 @@
         "regex": "\\/releases\\/tag\\/(?:v)?([\\d.]+)-stable"
     },
     "autoupdate": {
-        "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.12.exe",
+        "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.8.exe",
         "hash": {
             "url": "$url.sha256"
         },
         "shortcuts": [
             [
-                "idv-login-v$version-stable-Py3.12.exe",
+                "idv-login-v5.4.2-beta-Py3.8.exe",
                 "idv-login"
             ]
         ]
