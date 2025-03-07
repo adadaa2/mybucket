@@ -8,7 +8,7 @@
     "shortcuts": [
         [
             "idv-login-v5.4.3-stable-Py3.8.exe",
-            "idv-login"
+            "阴阳师"
         ]
     ],
     "checkver": {
@@ -23,7 +23,7 @@
         "shortcuts": [
             [
                 "idv-login-v$version-stable-Py3.8.exe",
-                "idv-login"
+                "阴阳师"
             ]
         ]
     }
