@@ -5,7 +5,6 @@
     "license": "GPL-3.0 license",
     "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v5.4.3-stable/idv-login-v5.4.3-stable-Py3.8.exe",
     "hash": "F8B62A815D3408FF507D384CCF316FC31790E7D6AD00C8884F2A81316D4A24B4",
-    "bin": "idv-login-v5.4.3-stable-Py3.8.exe",
     "shortcuts": [
         [
             "idv-login-v5.4.3-stable-Py3.8.exe",
