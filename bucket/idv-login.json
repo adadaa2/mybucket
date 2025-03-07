@@ -13,10 +13,10 @@
     ],
     "checkver": {
         "url": "https://github.com/Alexander-Porter/idv-login",
-        "regex": "\\/releases\\/tag\\/(?:v)?([\\d.]+)-beta"
+        "regex": "\\/releases\\/tag\\/(?:v)?([\\d.]+)-stable"
     },
     "autoupdate": {
-        "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-beta/idv-login-v$version-stable-Py3.8.exe",
+        "url": "https://github.com/Alexander-Porter/idv-login/releases/download/v$version-stable/idv-login-v$version-stable-Py3.8.exe",
         "hash": {
             "url": "$url.sha256"
         },
