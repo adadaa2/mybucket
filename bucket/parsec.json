@@ -1,5 +1,5 @@
 {
-    "version": "150-97d",
+    "version": "150-98",
     "description": "Remote desktop software",
     "homepage": "https://parsec.app",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://unity.com/legal/parsec-additional-terms"
     },
     "url": "https://builds.parsecgaming.com/package/parsec-windows.exe#/setup.exe",
-    "hash": "e9717407026bef30509d151d4b665b67ad61a01ac51d8058b98a6ba80f1a3a6e",
+    "hash": "206cd186aaa431d3975eb30f682b83851ef4f81125d2004f53b681117da23ec6",
     "pre_install": [
         "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
         "# Using Start-Process as a workaround because arguments with quotes does not work",
